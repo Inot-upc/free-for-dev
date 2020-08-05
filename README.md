@@ -823,7 +823,7 @@ Table of Contents
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
-
+   * [uploadcare.com](https://uploadcare.com/) — Uploadcare is an end-to-end file platform, fast and secure. The product covers a complete media pipeline: uploading, processing, and delivery.
 ## Design and UI
 
   * [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe & Prototyping tool similar to Sketch. Free plan covers: 1 active shared design spec, Adobe Fonts Free (limited set of fonts), 2GB of cloud storage.
